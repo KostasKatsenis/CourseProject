@@ -17,8 +17,8 @@ and "y_train.txt" Also, these directories should each contain a directory with t
    and dplyr should be installed on your system. Also, the script creates a lot of new objects especially data 
    frames. In the process, the script erases these objects expect the two final data sets. In order not to lose any
    object of yours, this is the list with the names of the objects the script erases:
-   X_test,X_train,Y_test,Y_train,trainData,testData,fcData,Features,fBodyAcc_XYZ,
-   fBodyAccJerk_XYZ,fBodyAccJerkMag,fBodyAccMag,fBodyGyro_XYZ,fBodyGyroJerkMag,
-   fBodyGyroMag,tBodyAcc_XYZ,tBodyAccJerk_XYZ,tBodyAccJerkMag,tBodyAccMag,
-   tBodyGyro_XYZ,tBodyGyroJerk_XYZ,tBodyGyroJerkMag,tBodyGyroMag,Subject_test,
-   Subject_train,tGravityAcc_XYZ,tGravityAccMag,TotalData.
+   X_test , X_train , Y_test , Y_train , trainData , testData , fcData , Features , fBodyAcc_XYZ , fBodyAccJerk_XYZ ,
+   fBodyAccJerkMag , fBodyAccMag , fBodyGyro_XYZ , fBodyGyroJerkMag , fBodyGyroMag , tBodyAcc_XYZ , tBodyAccJerk_XYZ ,
+   tBodyAccJerkMag , tBodyAccMag , tBodyGyro_XYZ , tBodyGyroJerk_XYZ , tBodyGyroJerkMag , tBodyGyroMag , Subject_test ,
+   Subject_train , tGravityAcc_XYZ , tGravityAccMag , TotalData , NewTotalData.
+   
