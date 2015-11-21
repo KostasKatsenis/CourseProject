@@ -28,7 +28,7 @@ and "y_train.txt" Also, these directories should each contain a directory with t
 
 In step 1 , we read the files using the read.table command.Then, we give names to the variables
 and then we merge the files to two data sets. One for train data set and one for test data set.
-Then we merge these sata sets together with the rbind() command and we have a new data set.
+Then we merge these data sets together with the rbind() command and we have a new data set.
 
 In step 2 we subset the columns that refer to mean or standard deviation and we cbind() them in order 
 to build a new data set.
