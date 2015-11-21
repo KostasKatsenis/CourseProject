@@ -15,7 +15,7 @@ and "y_train.txt" Also, these directories should each contain a directory with t
  
    Before you run the script,you should know that the script loads the appropriate libraries. So, the packages plyr 
    and dplyr should be installed on your system. Also, the script creates a lot of new objects especially data 
-   frames. In the process, the script erases these objects expect the two final data sets. In order not to lose any
+   frames. In the process, the script erases these objects except the final data set. In order not to lose any
    object of yours, this is the list with the names of the objects the script erases:
    X_test , X_train , Y_test , Y_train , trainData , testData , fcData , Features , fBodyAcc_XYZ , fBodyAccJerk_XYZ ,
    fBodyAccJerkMag , fBodyAccMag , fBodyGyro_XYZ , fBodyGyroJerkMag , fBodyGyroMag , tBodyAcc_XYZ , tBodyAccJerk_XYZ ,
