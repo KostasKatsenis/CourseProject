@@ -26,18 +26,18 @@ and "y_train.txt" Also, these directories should each contain a directory with t
 
 #####The script is divided in five steps:
 
-*In step 1 , we read the files using the read.table command.Then, we give names to the variables
+In step 1 , we read the files using the read.table command.Then, we give names to the variables
 and then we merge the files to two data sets. One for train data set and one for test data set.
 The we merge these sata sets together with the rbind() command and we have a new data set.
 
-*In step 2 we subset the columns that refer to mean or standard deviation and we cbind() them in order 
+In step 2 we subset the columns that refer to mean or standard deviation and we cbind() them in order 
 to build a new data set.
 
-*In step 3 we transform our column Activity from integer vector to character vector. We use a big ifelse command
+In step 3 we transform our column Activity from integer vector to character vector. We use a big ifelse command
 to do this tranformation.
 
-*In step 4 we renaming our columns. The dplyr package is loaded because we use the rename command.
+In step 4 we renaming our columns. The dplyr package is loaded because we use the rename command.
 
-*Finally,in step 5 we create a new data set which contains the mean of each variable for each person and each activity.
+Finally,in step 5 we create a new data set which contains the mean of each variable for each person and each activity.
 For making the final data set more tidy, we transform the Activity column to a factor from a character vector and then
 sorting by person and by activity our Final data set.
