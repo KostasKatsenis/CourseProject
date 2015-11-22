@@ -50,9 +50,93 @@ The FinalData set contains the means of each different measurement for each Volu
 
 ##Description of the variables
 
-Volunteer_No:
+#####Volunteer_No:
 
 In the experiments we use 30 different persons, 30 volunteers. Each volunteer is represented with a
 number from 1 to 30.
+
+#####Activity:
+
+#####MeanMeanOfBodyAcceleration_X_Axis:
+
+#####MeanMeanOfBodyAcceleration_Y_Axis:
+
+#####MeanMeanOfBodyAcceleration_Z_Axis:
+
+#####MeanStandardDeviationOfBodyAcceleration_X_Axis:
+
+#####MeanStandardDeviationOfBodyAcceleration_Y_Axis:
+
+#####MeanStandardDeviationOfBodyAcceleration_Z_Axis:
+
+#####MeanMeanOfGravityAcceleration_X_Axis:
+
+#####MeanMeanOfGravityAcceleration_Y_Axis:
+
+#####MeanMeanOfGravityAcceleration_Z_Axis:
+
+#####MeanStandardDeviationOfGravityAcceleration_X_Axis:
+
+#####MeanStandardDeviationOfGravityAcceleration_Y_Axis:  
+
+#####MeanStandardDeviationOfGravityAcceleration_Z_Axis:
+
+#####MeanMeanOfJerkOfBodyAccelerarion_X_Axis:  
+
+#####MeanMeanOfJerkOfBodyAccelerarion_Y_Axis:
+
+#####MeanMeanOfJerkOfBodyAccelerarion_Z_Axis:
+
+#####MeanStandardDeviationOfJerkOfBodyAcceleration_X_Axis"          
+#####MeanStandardDeviationOfJerkOfBodyAcceleration_Y_Axis"          
+#####MeanStandardDeviationOfJerkOfBodyAcceleration_Z_Axis"          
+#####MeanMeanOfAngularVelocity_X_Axis"                              
+#####MeanMeanOfAngularVelocity_Y_Axis"                              
+#####MeanMeanOfAngularVelocity_Z_Axis"                              
+#####MeanStandardDeviationOfAngularVelocity_X_Axis"                 
+#####MeanStandardDeviationOfAngularVelocity_Y_Axis"                 
+#####MeanStandardDeviationOfAngularVelocity_Z_Axis"                 
+#####MeanMeanOfAngularJerk_X_Axis"                                  
+#####MeanMeanOfAngularJerk_Y_Axis"                                  
+#####MeanMeanOfAngularJerk_Z_Axis"                                  
+#####MeanStandardDeviationOfAngularJerk_X_Axis"                     
+#####MeanStandardDeviationOfAngularJerk_Y_Axis"                     
+#####MeanStandardDeviationOfAngularJerk_Z_Axis"                     
+#####MeanMeanOfMagnitudeOfBodyAcceleration"                         
+#####MeanStandardDeviationOfMagnitudeOfBodyAcceleration"            
+#####MeanMeanOfMagnitudeOfGravityAcceleration"                      
+#####MeanStandardDeviationOfMagnitudeOfGravityAcceleration"         
+#####MeanMeanOfMagnitudeOfJerkOfBodyAcceleration"                   
+#####MeanStandardDeviationOfMagnitudeofJerkOfBodyAcceleration"      
+#####MeanMeanOfMagnitudeOfAngularVelocity"                          
+#####MeanStandardDeviationOfMagnitudeOfAngularVelocity"             
+#####MeanMeanOfMagnitudeOfAngularJerk"                              
+#####MeanStandardDeviationOfAngularJerk"                            
+#####MeanFFT_OfMeanOfBodyAcceleration_X_Axis"                       
+#####MeanFFT_OfMeanOfBodyAcceleration_Y_Axis"                       
+#####MeanFFT_OfMeanOfBodyAcceleration_Z_Axis"                       
+#####MeanFFT_OfStandardDeviationOfBodyAcceleration_X_Axis"          
+#####MeanFFT_OfStandardDeviationOfBodyAcceleration_Y_Axis"          
+#####MeanFFT_OfStandardDeviationOfBodyAcceleration_Z_Axis"          
+#####MeanFFT_OfMeanOfJerkOfBodyAcceleration_X_Axis"                 
+#####MeanFFT_OfMeanOfJerkOfBodyAcceleration_Y_Axis"                 
+#####MeanFFT_OfMeanOfJerkOfBodyAcceleration_Z_Axis"                 
+#####MeanFFT_OfStandardDeviationOfJerkOfBodyAcceleration_X_Axis"    
+#####MeanFFT_OfStandardDeviationOfJerkOfBodyAcceleration_Y_Axis"    
+#####MeanFFT_OfStandardDeviationOfJerkOfBodyAcceleration_Z_Axis"    
+#####MeanFFT_OfMeanOfAngularVelocity_X_Axis"                        
+#####MeanFFT_OfMeanOfAngularVelocity_Y_Axis"                        
+#####MeanFFT_OfMeanOfAngularVelocity_Z_Axis"                        
+#####MeanFFT_OfStandardDeviationOfAngularVelocity_X_Axis"           
+#####MeanFFT_OfStandardDeviationOfAngularVelocity_Y_Axis"           
+#####MeanFFT_OfStandardDeviationOfAngularVelocity_Z_Axis"           
+#####MeanFFT_OfMeanOfMagnitudeOfBodyAcceleration"                   
+#####MeanFFT_OfStandardDeviationOfMagnitudeOfBodyAcceleration"      
+#####MeanFFT_OfMeanOfMagnitudeOfJerkOfBodyAcceleration"             
+#####MeanFFT_OfStandardDeviationOfMagnitudeOfJerkOfBodyAcceleration"
+#####MeanFFT_OfMeanOfMagnitudeOfAngularVelocity"                    
+#####MeanFFT_OfStandardDeviationOfMagnitudeOfAngularVelocity"       
+#####MeanFFT_OfMeanOfMagnitudeOfAngularJerk"                        
+#####MeanFFT_OfStandardDeviationOfMagnitudeOfAngularJerk" 
 
 
