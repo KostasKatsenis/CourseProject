@@ -50,4 +50,9 @@ The FinalData set contains the means of each different measurement for each Volu
 
 ##Description of the variables
 
+Volunteer_No:
+
+In the experiments we use 30 different persons, 30 volunteers. Each volunteer is represented with a
+number from 1 to 30.
+
 
