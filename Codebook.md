@@ -45,7 +45,7 @@ There is a directory "UCI HAR Dataset" which contains all the necessary files an
 directory inside your working directory in R-studio and then run the
 run_analysis.R script. This will create a data frame named "FinalData", which the tidy data we want 
 to produce.
-You can read the README.md file or additional information.
+You can read the README.md file for additional information.
 The FinalData set contains the means of each different measurement for each Volunteer and each Activity.
 
 ##Description of the variables
