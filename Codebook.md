@@ -47,6 +47,7 @@ run_analysis.R script. This will create a data frame named "FinalData", which th
 to produce.
 You can read the README.md file for additional information.
 The FinalData set contains the means of each different measurement for each Volunteer and each Activity.
+The script creates a text file CourseProject.txt, which contains the FinalData.
 
 ##Description of the variables
 
