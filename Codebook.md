@@ -156,39 +156,73 @@ The mean of all standard deviations of measurements of Angular velocity on Y axi
 
 The mean of all standard deviations of measurements of Angular velocity on Z axis. Units= radians / sec
 
-#####MeanMeanOfAngularJerk_X_Axis:                 
+#####MeanMeanOfAngularJerk_X_Axis:  
+
+The mean of means of all measurements of angular Jerk on X axis. Units= radians / sec^3
 
 #####MeanMeanOfAngularJerk_Y_Axis:                                  
 
+The mean of means of all measurements of angular Jerk on Y axis. Units= radians / sec^3
+
 #####MeanMeanOfAngularJerk_Z_Axis:                                  
 
-#####MeanStandardDeviationOfAngularJerk_X_Axis:                     
+The mean of means of all measurements of angular Jerk on Z axis. Units= radians / sec^3
+
+#####MeanStandardDeviationOfAngularJerk_X_Axis: 
+
+The mean of standard deviations of all measurements of angular Jerk on X axis. Units= radians / sec^3
 
 #####MeanStandardDeviationOfAngularJerk_Y_Axis:                     
 
+The mean of standard deviations of all measurements of angular Jerk on Y axis. Units= radians / sec^3
+
 #####MeanStandardDeviationOfAngularJerk_Z_Axis:                     
 
-#####MeanMeanOfMagnitudeOfBodyAcceleration:                     
+The mean of standard deviations of all measurements of angular Jerk on Z axis. Units= radians / sec^3
 
-#####MeanStandardDeviationOfMagnitudeOfBodyAcceleration:            
+#####MeanMeanOfMagnitudeOfBodyAcceleration:      
 
-#####MeanMeanOfMagnitudeOfGravityAcceleration:            
+The mean of means of all measurements of magnitude of body acceleration.
 
-#####MeanStandardDeviationOfMagnitudeOfGravityAcceleration:       
+#####MeanStandardDeviationOfMagnitudeOfBodyAcceleration:  
 
-#####MeanMeanOfMagnitudeOfJerkOfBodyAcceleration:         
+The mean of standard deviation of all measurements of magnitude of body acceleration.
 
-#####MeanStandardDeviationOfMagnitudeofJerkOfBodyAcceleration:      
+#####MeanMeanOfMagnitudeOfGravityAcceleration:  
 
-#####MeanMeanOfMagnitudeOfAngularVelocity:      
+The mean of means of all measurements of magnitude of gravity acceleration.
 
-#####MeanStandardDeviationOfMagnitudeOfAngularVelocity:             
+#####MeanStandardDeviationOfMagnitudeOfGravityAcceleration:   
 
-#####MeanMeanOfMagnitudeOfAngularJerk:             
+The mean of standard deviations of all measurements of magnitude of gravity acceleration.
 
-#####MeanStandardDeviationOfAngularJerk:                            
+#####MeanMeanOfMagnitudeOfJerkOfBodyAcceleration:   
 
-#####MeanFFT_OfMeanOfBodyAcceleration_X_Axis:                       
+The mean of means of all measurements of magnitude of Jerk of body acceleration.
+
+#####MeanStandardDeviationOfMagnitudeofJerkOfBodyAcceleration:   
+
+The mean of standard deviations of all measurements of magnitude of jerk of body acceleration.
+
+#####MeanMeanOfMagnitudeOfAngularVelocity:     
+
+The mean of means of all measurements of magnitude of angular velocity.
+
+#####MeanStandardDeviationOfMagnitudeOfAngularVelocity:    
+
+The mean of standard deviations of all measurements of magnitude of angular velocity.
+
+#####MeanMeanOfMagnitudeOfAngularJerk:  
+
+The mean of means of all measurements of magnitude of angular jerk.
+
+#####MeanStandardDeviationOfAngularJerk:  
+
+The mean of standard deviations of all measurements of magnitude of angular jerk.
+
+#####MeanFFT_OfMeanOfBodyAcceleration_X_Axis:    
+
+
 
 #####MeanFFT_OfMeanOfBodyAcceleration_Y_Axis:                       
 
