@@ -41,3 +41,5 @@ In step 4 we renaming our columns. The dplyr package is loaded because we use th
 Finally,in step 5 we create a new data set which contains the mean of each variable for each person and each activity.
 For making the final data set more tidy, we transform the Activity column to a factor from a character vector and then
 sorting by person and by activity our Final data set.
+
+In the end , the script creates a text file wlich contains the data of FinalData data frame.
