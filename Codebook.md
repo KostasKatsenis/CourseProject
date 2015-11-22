@@ -220,29 +220,107 @@ The mean of means of all measurements of magnitude of angular jerk.
 
 The mean of standard deviations of all measurements of magnitude of angular jerk.
 
-#####MeanFFT_MeanOfBodyAcceleration_X_Axis:                       
-#####MeanFFT_MeanOfBodyAcceleration_Y_Axis:                      
-#####MeanFFT_MeanOfBodyAcceleration_Z_Axis:                       
+#####MeanFFT_MeanOfBodyAcceleration_X_Axis:  
+
+The mean of means of all measurements of Fast Fourier Transformation of body acceleration on X axis.
+
+#####MeanFFT_MeanOfBodyAcceleration_Y_Axis:  
+
+The mean of means of all measurements of Fast Fourier Transformation of body acceleration on Y axis.
+
+#####MeanFFT_MeanOfBodyAcceleration_Z_Axis:   
+
+The mean of means of all measurements of Fast Fourier Transformation of body acceleration on Z axis.
+
 #####MeanFFT_StandardDeviationOfBodyAcceleration_X_Axis:
-#####MeanFFT_StandardDeviationOfBodyAcceleration_Y_Axis:          
-#####MeanFFT_StandardDeviationOfBodyAcceleration_Z_Axis:          
-#####MeanFFT_MeanOfJerkOfBodyAcceleration_X_Axis:          
-#####MeanFFT_MeanOfJerkOfBodyAcceleration_Y_Axis:                 
-#####MeanFFT_MeanOfJerkOfBodyAcceleration_Z_Axis:                 
-#####MeanFFT_StandardDeviationOfJerkOfBodyAcceleration_X_Axis:    
-#####MeanFFT_StandardDeviationOfJerkOfBodyAcceleration_Y_Axis:    
-#####MeanFFT_StandardDeviationOfJerkOfBodyAcceleration_Z_Axis:    
-#####MeanFFT_MeanOfAngularVelocity_X_Axis:                        
-#####MeanFFT_MeanOfAngularVelocity_Y_Axis:                        
-#####MeanFFT_MeanOfAngularVelocity_Z_Axis:                        
-#####MeanFFT_StandardDeviationOfAngularVelocity_X_Axis:           
-#####MeanFFT_StandardDeviationOfAngularVelocity_Y_Axis:           
-#####MeanFFT_StandardDeviationOfAngularVelocity_Z_Axis:           
-#####MeanFFT_MeanOfMagnitudeOfBodyAcceleration:           
-#####MeanFFT_StandardDeviationOfMagnitudeOfBodyAcceleration:     
-#####MeanFFT_MeanOfMagnitudeOfJerkOfBodyAcceleration:      
+
+The mean of standard deviations of all measurements of Fast Fourier Transformation of body acceleration on X axis.
+
+#####MeanFFT_StandardDeviationOfBodyAcceleration_Y_Axis:  
+
+The mean of standard deviations of all measurements of Fast Fourier Transformation of body acceleration on Y axis.
+
+#####MeanFFT_StandardDeviationOfBodyAcceleration_Z_Axis:
+
+The mean of standard deviations of all measurements of Fast Fourier Transformation of body acceleration on Z axis.
+
+#####MeanFFT_MeanOfJerkOfBodyAcceleration_X_Axis:
+
+The mean of means of all measurements of Fast Fourier Transformation of jerk of body acceleration on X axis.
+
+#####MeanFFT_MeanOfJerkOfBodyAcceleration_Y_Axis:  
+
+The mean of means of all measurements of Fast Fourier Transformation of jerk of body acceleration on Y axis.
+
+#####MeanFFT_MeanOfJerkOfBodyAcceleration_Z_Axis: 
+
+The mean of means of all measurements of Fast Fourier Transformation of jerk of body acceleration on Z axis.
+
+#####MeanFFT_StandardDeviationOfJerkOfBodyAcceleration_X_Axis:  
+
+The mean of standard deviations of all measurements of Fast Fourier Transformation of jerk of body acceleration on X axis.
+
+#####MeanFFT_StandardDeviationOfJerkOfBodyAcceleration_Y_Axis:
+
+The mean of standard deviations of all measurements of Fast Fourier Transformation of jerk of body acceleration on Y axis.
+
+#####MeanFFT_StandardDeviationOfJerkOfBodyAcceleration_Z_Axis:   
+
+The mean of standard deviations of all measurements of Fast Fourier Transformation of jerk of body acceleration on Z axis.
+
+#####MeanFFT_MeanOfAngularVelocity_X_Axis: 
+
+The mean of means of Fast Fourier Transformation of Angular velocity on X axis.
+
+#####MeanFFT_MeanOfAngularVelocity_Y_Axis: 
+
+The mean of means of Fast Fourier Transformation of Angular velocity on Y axis.
+
+#####MeanFFT_MeanOfAngularVelocity_Z_Axis:   
+
+The mean of means of Fast Fourier Transformation of Angular velocity on Z axis.
+
+#####MeanFFT_StandardDeviationOfAngularVelocity_X_Axis:
+
+The mean of standard deviations of Fast Fourier Transformation of Angular velocity on X axis.
+
+#####MeanFFT_StandardDeviationOfAngularVelocity_Y_Axis: 
+
+The mean of standard deviations of Fast Fourier Transformation of Angular velocity on Y axis.
+
+#####MeanFFT_StandardDeviationOfAngularVelocity_Z_Axis:  
+
+The mean of standard deviations of Fast Fourier Transformation of Angular velocity on Z axis.
+
+#####MeanFFT_MeanOfMagnitudeOfBodyAcceleration: 
+
+The mean of means of Fast Fourier Transformation of magnitude of body acceleration.
+
+#####MeanFFT_StandardDeviationOfMagnitudeOfBodyAcceleration: 
+
+The mean of standard deviations of Fast Fourier Transformation of magnitude of body acceleration.
+
+#####MeanFFT_MeanOfMagnitudeOfJerkOfBodyAcceleration: 
+
+The mean of means of Fast Fourier Transformation of magnitude of jerk of body acceleration.
+
 #####MeanFFT_StandardDeviationOfMagnitudeOfJerkOfBodyAcceleration:
+
+The mean of standard deviations of Fast Fourier Transformation of magnitude of jerk of body acceleration.
+
 #####MeanFFT_MeanOfMagnitudeOfAngularVelocity:
-#####MeanFFT_StandardDeviationOfMagnitudeOfAngularVelocity:       
-#####MeanFFT_MeanOfMagnitudeOfAngularJerk:       
+
+The mean of means of Fast Fourier Transformation of magnitude of Angular velocity.
+
+#####MeanFFT_StandardDeviationOfMagnitudeOfAngularVelocity: 
+
+The mean of standard deviations of Fast Fourier Transformation of magnitude of Angular velocity.
+
+#####MeanFFT_MeanOfMagnitudeOfAngularJerk:
+
+The mean of means of Fast Fourier Transformation of magnitude of Angular jerk.
+
 #####MeanFFT_StandardDeviationOfMagnitudeOfAngularJerk: 
+
+The mean of standard deviations of Fast Fourier Transformation of magnitude of angular jerk.
+
