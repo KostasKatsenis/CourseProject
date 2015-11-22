@@ -58,53 +58,103 @@ number from 1 to 30.
 
 #####Activity:
 
+There are six activities: Walking , Walking upstairs , Walking downstairs , Sitting , Standing , Laying.
+
 #####MeanMeanOfBodyAcceleration_X_Axis:
+
+The mean of all means of measurements of body acceleration on X axis.Units=g
 
 #####MeanMeanOfBodyAcceleration_Y_Axis:
 
+The mean of all means of measurements of body acceleration on Y axis.Units=g
+
 #####MeanMeanOfBodyAcceleration_Z_Axis:
+
+The mean of all means of measurements of body acceleration on Z axis.Units=g
 
 #####MeanStandardDeviationOfBodyAcceleration_X_Axis:
 
+The mean of all standard deviations of measurements of body acceleration on X axis.Units=g
+
 #####MeanStandardDeviationOfBodyAcceleration_Y_Axis:
+
+The mean of all standard deviations of measurements of body acceleration on Y axis.Units=g
 
 #####MeanStandardDeviationOfBodyAcceleration_Z_Axis:
 
+The mean of all standard deviations of measurements of body acceleration on Z axis.Units=g
+
 #####MeanMeanOfGravityAcceleration_X_Axis:
+
+The mean of all means of measurements of gravity acceleration on X axis.Units=g
 
 #####MeanMeanOfGravityAcceleration_Y_Axis:
 
+The mean of all means of measurements of gravity acceleration on Y axis.Units=g
+
 #####MeanMeanOfGravityAcceleration_Z_Axis:
+
+The mean of all means of measurements of gravity acceleration on Z axis.Units=g
 
 #####MeanStandardDeviationOfGravityAcceleration_X_Axis:
 
-#####MeanStandardDeviationOfGravityAcceleration_Y_Axis:  
+The mean of all standard deviations of measurements of gravity acceleration on X axis.Units=g
+
+#####MeanStandardDeviationOfGravityAcceleration_Y_Axis: 
+
+The mean of all standard deviations of measurements of gravity acceleration on Y axis.Units=g
 
 #####MeanStandardDeviationOfGravityAcceleration_Z_Axis:
 
-#####MeanMeanOfJerkOfBodyAccelerarion_X_Axis:  
+The mean of all standard deviations of measurements of gravity acceleration on Z axis.Units=g
+
+#####MeanMeanOfJerkOfBodyAccelerarion_X_Axis: 
+
+The mean of all means of measurements of Jerk of body acceleration on X axis.Units= g/sec
 
 #####MeanMeanOfJerkOfBodyAccelerarion_Y_Axis:
 
+The mean of all means of measurements of Jerk of body acceleration on Y axis.Units= g/sec
+
 #####MeanMeanOfJerkOfBodyAccelerarion_Z_Axis:
 
-#####MeanStandardDeviationOfJerkOfBodyAcceleration_X_Axis:   
+The mean of all means of measurements of Jerk of body acceleration on Z axis.Units= g/sec
 
-#####MeanStandardDeviationOfJerkOfBodyAcceleration_Y_Axis:          
+#####MeanStandardDeviationOfJerkOfBodyAcceleration_X_Axis:
+
+The mean of all standard deviations of measurements of Jerk of body acceleration on X axis.Units= g/sec
+
+#####MeanStandardDeviationOfJerkOfBodyAcceleration_Y_Axis:   
+
+The mean of all standard deviations of measurements of Jerk of body acceleration on Y axis.Units= g/sec
 
 #####MeanStandardDeviationOfJerkOfBodyAcceleration_Z_Axis:          
 
-#####MeanMeanOfAngularVelocity_X_Axis:          
+The mean of all standard deviations of measurements of Jerk of body acceleration on Z axis.Units= g/sec
 
-#####MeanMeanOfAngularVelocity_Y_Axis:                              
+#####MeanMeanOfAngularVelocity_X_Axis:  
+
+The mean of all means of measurements of Angular velocity on X axis. Units= radians / sec
+
+#####MeanMeanOfAngularVelocity_Y_Axis:  
+
+The mean of all means of measurements of Angular velocity on Y axis. Units= radians / sec
 
 #####MeanMeanOfAngularVelocity_Z_Axis:                              
 
-#####MeanStandardDeviationOfAngularVelocity_X_Axis:                 
+The mean of all means of measurements of Angular velocity on Z axis. Units= radians / sec
 
-#####MeanStandardDeviationOfAngularVelocity_Y_Axis:                 
+#####MeanStandardDeviationOfAngularVelocity_X_Axis: 
 
-#####MeanStandardDeviationOfAngularVelocity_Z_Axis:                 
+The mean of all standard deviations of measurements of Angular velocity on X axis. Units= radians / sec
+
+#####MeanStandardDeviationOfAngularVelocity_Y_Axis: 
+ 
+The mean of all standard deviations of measurements of Angular velocity on Y axis. Units= radians / sec
+
+#####MeanStandardDeviationOfAngularVelocity_Z_Axis:  
+
+The mean of all standard deviations of measurements of Angular velocity on Z axis. Units= radians / sec
 
 #####MeanMeanOfAngularJerk_X_Axis:                 
 
