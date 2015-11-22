@@ -313,8 +313,9 @@ FinalData<-FinalData[order(FinalData$Volunteer_No,FinalData$Activity),]
 #___________________________________END OF STEP 5 OF THE COURSE PROJECT______________________________________________
 #____________________________________________________________________________________________________________________
 
+write.table(FinalData,file="CourseProject.txt",row.name = FALSE)
 
-
+#It creates a text file with the FinalData data frame in it.
 
 
 
